@@ -2,6 +2,8 @@ header {
     background-image: url("https://wallpaperaccess.com/full/4747474.jpg");
     background-position: center center;
     background-size: cover;
+    box-shadow: 0px 0px 50px black;
+    margin-bottom: 50px;
     }
 
     #hero-text {
